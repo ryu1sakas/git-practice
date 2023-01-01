@@ -5,3 +5,4 @@ changed in no-fast-forward
 changed in conflict (conflict occurs)
 updated on github
 second updated 
+update (for conflict)
